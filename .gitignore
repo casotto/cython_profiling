@@ -1,0 +1,7 @@
+*.c
+*.pyd
+calc_pi.egg-info/
+*.prof
+.idea/
+*.pyc
+build/
